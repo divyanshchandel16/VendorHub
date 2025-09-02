@@ -7,7 +7,7 @@ VendorHub is a modern e-commerce frontend project that allows users to browse, s
 Frontend
 
 ## Deployed App
-Frontend: https://deployed-site.vendorhub.example
+Frontend: https://cozy-clafoutis-0c90f2.netlify.app
 Backend: N/A
 Database: N/A
 
