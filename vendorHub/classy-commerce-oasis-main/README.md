@@ -10,7 +10,7 @@ Frontend
 Frontend: https://cozy-clafoutis-0c90f2.netlify.app
 Backend: N/A
 Database: N/A
-Submit: https://docs.google.com/forms/d/e/1FAIpQLSdYspPDHVzqrWwXqcmgWTdSsjWqaJjr8s83WhXsM6fsWFO8zA/viewform
+
 ## Directory Structure
 ```
 vendorHub/
